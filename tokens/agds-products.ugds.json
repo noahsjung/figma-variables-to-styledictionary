@@ -1,0 +1,16 @@
+{
+  "product": {
+    "$type": "string",
+    "$value": "{product}",
+    "$description": "",
+    "$extensions": {
+      "com.figma": {
+        "hiddenFromPublishing": true,
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "codeSyntax": {}
+      }
+    }
+  }
+}
